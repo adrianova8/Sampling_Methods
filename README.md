@@ -8,7 +8,7 @@ _Learn how to sample data with Python._
 
 # LEVEL 1
 
- Exercise 1
+ # Exercise 1
   - Grab a sports-themed dataset you like. Performs a sampling of the data generating a simple random sample and a systematic sample.
 
   
