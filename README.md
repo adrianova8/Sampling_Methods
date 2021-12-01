@@ -21,5 +21,5 @@ _Learn how to sample data with Python._
  # LEVEL 3
   
  ## Exercise 3
-   - Continues with the sports theme dataset and generates a sample using the Reservoir sampling method
+  - Continues with the sports theme dataset and generates a sample using the Reservoir sampling method
 
